@@ -1,3 +1,4 @@
+FRIENDSHIP DAY CARD
 A beautiful Friendship Day card built with HTML, CSS, and JavaScript. Create a personalized surprise for your best friend with smooth animations and a modern UI.
 
 ✨ Features
