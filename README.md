@@ -1,16 +1,18 @@
-FRIENDSHIP DAY CARD
+**FRIENDSHIP DAY CARD**
+
 A beautiful Friendship Day card built with HTML, CSS, and JavaScript. Create a personalized surprise for your best friend with smooth animations and a modern UI.
 
-✨ Features
+**✨ Features**
+
 💙 Personalized friendship message
 🎨 Modern responsive design
 ✨ Smooth animations
 📱 Mobile & Desktop friendly
 ⚡ Lightweight and easy to customize
 🚀 Live Demo
-👉 https://storymintstudio.github.io/YFRIENDSHIP-DAY-CARD/
 
-💻 How to Use
+
+**💻 How to Use**
 Laptop
 Click Code → Download ZIP.
 Extract the ZIP file.
@@ -22,7 +24,8 @@ Open Replit.
 Import the repository.
 Run the project.
 📂 Project Structure
-📁 Project
+
+**📁 Project**
  ├── index.html
  ├── style.css
  ├── script.js
